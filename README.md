@@ -1,56 +1,44 @@
-# Caden Williams 🧑‍💻
+# 🧑‍💻 Caden Williams
 
-### Hey there! I'm Caden, a passionate developer 🖥️👾
+**`Aspiring Software Engineer`** 🚀
 
-Welcome to my GitHub profile! I'm a student developer with a focus on C++, Python, and game development. Currently working on cool projects, learning new things, and building awesome stuff.
-
----
-
-### 🚀 What I'm Working On:
-- **C++ Projects**: Building games and solving challenges.
-- **Game Dev**: Currently making a game with creepy research centers and dangerous creatures.
-- **APIs**: Planning and developing cool backend features.
+I'm an aspiring software engineer with a strong passion for programming and a deep interest in graphics. I enjoy exploring new technologies and constantly learning to improve my skills. 🎮💻
 
 ---
 
-### 🌱 Currently Learning:
-- Advanced **C++** techniques and optimization
-- **Game development mechanics** (camera effects, crouching, etc.)
-- More about **Python** and its frameworks
+## 🌱 Where did my journey begin
+
+My first introduction into programming was when I was 12, playing games on the online platform Roblox. I began to wonder how games were made, and that's when I came across Roblox's building tool. This eventually evolved into my first introduction to programming using Lua. From there, I slowly branched off into learning new languages and expanding my knowledge. I also began taking computer classes at my school, further immersing me in the culture around computers and programming.
 
 ---
 
-### 🛠️ Technologies I Use:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+## ✍️ Languages I'm Fluent in
+
+<p align="center">
+  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="128" height="128">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" width="128" height="128">
+  <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="128" height="128">
+  <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="128" height="128">
+</p>
 
 ---
 
-### 🔗 Find Me:
-- 🌍 [Portfolio](https://yourportfolio.com) (link to your portfolio)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/YourTwitter)
-- 💼 LinkedIn: [Caden Williams](https://linkedin.com/in/yourprofile)
+## 💡 What I’m Learning
+
+- **AI & Machine Learning** 🤖: Exploring algorithms that can replicate human learning.
+- **Graphics Programming** 🎨: Exploring rendering techniques and 3D Geometry.
 
 ---
 
-### 📈 GitHub Stats:
-![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🔗 Find Me
+
+- 🌍 [Portfolio](https://yourportfolio.com)
+- 📧 [Email me](mailto:CadenMWilliams2007@Outlook.com)
+- 🐦 [Twitter](https://twitter.com/YourTwitter)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
-### 🤝 Let's Collaborate:
-I'm always open to interesting projects or opportunities. Feel free to reach out if you want to work together or chat about development!
+## 📈 GitHub Stats
 
----
-
-### 🎮 Fun Fact:
-When I’m not coding, I’m usually plotting out new game ideas or getting lost in my own creations!
-
----
-
-### 💬 Fun quote:
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadenmbond&show_icons=true&count_private=true&theme=radical)
