@@ -34,8 +34,7 @@ My first introduction into programming was when I was 12, playing games on the o
 
 - 🌍 [Portfolio](https://yourportfolio.com)
 - 📧 [Email me](mailto:CadenMWilliams2007@Outlook.com)
-- 🐦 [Twitter](https://twitter.com/YourTwitter)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🎥 [Youtube](https://www.youtube.com/@cadenprog)
 
 ---
 
