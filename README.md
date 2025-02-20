@@ -8,7 +8,7 @@ I'm an aspiring software engineer with a strong passion for programming and a de
 
 ## 🌱 Where did my journey begin
 
-My first introduction into programming was when I was 12, playing games on the online platform Roblox. I began to wonder how games were made, and that's when I came across Roblox's building tool. This eventually evolved into my first introduction to programming using Lua. From there, I slowly branched off into learning new languages and expanding my knowledge. I also began taking computer classes at my school, further immersing me in the culture around computers and programming.
+My introduction to programming began at the age of 12 while playing games on the online platform Roblox. Curious about game development, I explored Roblox's built-in building tools, which eventually led me to scripting with Lua. This initial experience sparked my interest in programming, motivating me to explore additional languages and broaden my technical skills. As I continued to develop my knowledge, I later began enrolling in computer science courses at school, further deepening my understanding of programming concepts and the broader field of software development.
 
 ---
 
@@ -21,15 +21,6 @@ My first introduction into programming was when I was 12, playing games on the o
   <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="128" height="128">
 </p>
 
----
-
-## 💡 What I’m Learning
-
-- **AI & Machine Learning** 🤖: Exploring algorithms that can replicate human learning.
-- **Graphics Programming** 🎨: Exploring rendering techniques and 3D Geometry.
-
----
-
 ## 🔗 Find Me
 
 - 🌍 [Portfolio](https://yourportfolio.com)
@@ -37,7 +28,5 @@ My first introduction into programming was when I was 12, playing games on the o
 - 🎥 [Youtube](https://www.youtube.com/@cadenprog)
 
 ---
-
-## 📈 GitHub Stats
 
 ![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadenmbond&show_icons=true&count_private=true&theme=radical)
