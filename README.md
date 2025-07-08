@@ -3,7 +3,7 @@
 **Aspiring Software Engineer** 🚀  
 18 y/o from 🇨🇦 · 7 Years of Programming Experience
 
-Focused on systems design, graphics programming, and emerging technologies.
+Focused on systems design, graphics programming, and low-level programming.
 
 ---
 
