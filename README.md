@@ -1,32 +1,43 @@
 # 🧑‍💻 Caden Williams
 
-**`Aspiring Software Engineer`** 🚀
+**Aspiring Software Engineer** 🚀  
+18 y/o from 🇨🇦 · 7 Years of Programming Experience
 
-I'm an aspiring software engineer with a strong passion for programming and a deep interest in graphics. I enjoy exploring new technologies and constantly learning to improve my skills. 🎮💻
-
----
-
-## 🌱 Where did my journey begin
-
-My introduction to programming began at the age of 12 while playing games on the online platform Roblox. Curious about game development, I explored Roblox's built-in building tools, which eventually led me to scripting with Lua. This initial experience sparked my interest in programming, motivating me to explore additional languages and broaden my technical skills. As I continued to develop my knowledge, I later began enrolling in computer science courses at school, further deepening my understanding of programming concepts and the broader field of software development.
+Focused on systems design, graphics programming, and emerging technologies.
 
 ---
 
-## ✍️ Languages I'm Fluent in
+## 📍 Background
+
+I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses. My primary focus is C++.
+
+I have a strong interest in performance-oriented development, graphics, and low-level problem solving.
+
+---
+
+## 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="128" height="128">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" width="128" height="128">
-  <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="128" height="128">
-  <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="128" height="128">
+  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="48" height="48">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" width="48" height="48">
+  <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="48" height="48">
+  <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="48" height="48">
 </p>
-
-## 🔗 Find Me
-
-- 🌍 [Portfolio](https://yourportfolio.com)
-- 📧 [Email me](mailto:CadenMWilliams2007@Outlook.com)
-- 🎥 [Youtube](https://www.youtube.com/@cadenprog)
 
 ---
 
-![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadenmbond&show_icons=true&count_private=true&theme=radical)
+## 🔗 Contact & Links
+
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 [Email](mailto:CadenMWilliams2007@Outlook.com)
+- 🎥 [YouTube](https://www.youtube.com/@cadenprog)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cadenmbond&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=cadenmbond&theme=radical" alt="GitHub Streak" />
+</p>
