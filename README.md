@@ -1,4 +1,4 @@
-# 🧑‍💻 Caden Williams
+# Caden Williams
 
 **Aspiring Software Engineer** 🚀  
 18 y/o from 🇨🇦 · 7 Years of Programming Experience
@@ -7,15 +7,19 @@ Focused on systems design, graphics programming, and emerging technologies.
 
 ---
 
-## 📍 Background
+## Background
 
-I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses. My primary focus is C++.
-
-I have a strong interest in performance-oriented development, graphics, and low-level problem solving.
+I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Basic Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses. My primary focus is C++.
 
 ---
 
-## 💻 Languages & Technologies
+## Interests
+Low-level memory management related to operating systems with C++ and QEMU.
+Windows graphics libraries and low-level programming.
+
+---
+
+## Languages
 
 <p align="center">
   <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="48" height="48">
@@ -26,11 +30,10 @@ I have a strong interest in performance-oriented development, graphics, and low-
 
 ---
 
-## 🔗 Contact & Links
+## Contact Me
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 [Email](mailto:CadenMWilliams2007@Outlook.com)
-- 🎥 [YouTube](https://www.youtube.com/@cadenprog)
+- [Portfolio](https://yourportfolio.com)
+- [Email](mailto:CadenMWilliams2007@Outlook.com)
 
 ---
 
