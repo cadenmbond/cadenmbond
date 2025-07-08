@@ -32,7 +32,6 @@ Windows graphics libraries and low-level programming.
 
 ## Contact Me
 
-- [Portfolio](https://yourportfolio.com)
 - [Email](mailto:CadenMWilliams2007@Outlook.com)
 
 ---
