@@ -1,4 +1,7 @@
 # Caden Williams
+[![Email](https://img.shields.io/badge/Email-Open_Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:CadenMWilliams2007@Outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caden-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
 
 **Aspiring Software Engineer** 🚀  
 18 y/o from 🇨🇦 · 7 Years of Programming Experience
@@ -27,14 +30,6 @@ Windows graphics libraries and low-level programming.
   <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="64" height="64">
   <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="64" height="64">
 </p>
-
----
-
-## Contact Me
-
-- [Email](mailto:CadenMWilliams2007@Outlook.com)
--  [LinkedIn](https://www.linkedin.com/in/cadenmwilliams)
--  [YouTube](https://www.youtube.com/channel/canedmw)
 
 ---
 
