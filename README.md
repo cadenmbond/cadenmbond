@@ -9,7 +9,7 @@ Focused on systems design, graphics programming, and low-level programming.
 
 ## Background
 
-I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Basic Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses. My primary focus is C++.
+I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Basic Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
 
 ---
 
