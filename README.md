@@ -22,10 +22,10 @@ Windows graphics libraries and low-level programming.
 ## Languages
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="48" height="48">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" width="48" height="48">
-  <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="48" height="48">
-  <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="48" height="48">
+  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" width="64" height="64">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" width="64" height="64">
+  <img src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python" width="64" height="64">
+  <img src="https://iconape.com/wp-content/png_logo_vector/c-3.png" alt="C++" width="64" height="64">
 </p>
 
 ---
@@ -33,6 +33,8 @@ Windows graphics libraries and low-level programming.
 ## Contact Me
 
 - [Email](mailto:CadenMWilliams2007@Outlook.com)
+-  [LinkedIn](https://www.linkedin.com/in/cadenmwilliams)
+-  [YouTube](https://www.youtube.com/channel/canedmw)
 
 ---
 
