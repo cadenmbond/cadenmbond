@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caden-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
 
-**Aspiring Software Engineer** 🚀  
-18 y/o from 🇨🇦 · 7 Years of Programming Experience
+**Aspiring Software Engineer** 
+18 from 🇨🇦 · 8 Years of Programming Experience
 
 Focused on systems design, graphics programming, and low-level programming.
 
@@ -12,12 +12,12 @@ Focused on systems design, graphics programming, and low-level programming.
 
 ## Background
 
-I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software engineering. Since then, I have expanded my knowledge to include Basic Python, web technologies, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
+I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have expanded my knowledge to include Python, Web Development, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
 
 ---
 
 ## Interests
-Low-level memory management related to operating systems with C++ and QEMU.
+Low-level memory management related to operating systems with C++.
 Windows graphics libraries and low-level programming.
 
 ---
