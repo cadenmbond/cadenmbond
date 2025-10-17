@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
 
 **Aspiring Software Engineer** 
-18 from 🇨🇦 · 8 Years of Programming Experience
+18 from 🇨🇦
 
 Focused on systems design, graphics programming, and low-level programming.
 
@@ -12,13 +12,20 @@ Focused on systems design, graphics programming, and low-level programming.
 
 ## Background
 
-I began programming at age 11 with Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have expanded my knowledge to include Python, Web Development, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
+I began programming at age 10 with Hour of Code and Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have expanded my knowledge to include Python, Web Development, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
 
 ---
 
 ## Interests
-Low-level memory management related to operating systems with C++.
-Windows graphics libraries and low-level programming.
+Graphics programming
+
+Low-level programming
+
+Operating systems programming
+
+Game programming
+
+Software development
 
 ---
 
