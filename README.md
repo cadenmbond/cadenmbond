@@ -12,7 +12,7 @@ Focused on systems design, graphics programming, and low-level programming.
 
 ## Background
 
-I began programming at age 10 with Hour of Code and Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have expanded my knowledge to include Python, Web Development, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
+I began programming at age 10 with Hour of Code and Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have explored other frameworks and languages including Python, Web Development languages, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
 
 ---
 
@@ -40,7 +40,7 @@ Software development
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cadenmbond&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
