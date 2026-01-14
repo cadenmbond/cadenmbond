@@ -6,7 +6,7 @@
 **Software Engineer** 
 18 from 🇨🇦
 
----
+--
 
 ## Interests
 Graphics programming
