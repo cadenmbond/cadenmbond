@@ -3,29 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caden-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
 
-**Aspiring Software Engineer** 
+**Software Engineer** 
 18 from 🇨🇦
-
-Focused on systems design, graphics programming, and low-level programming.
-
----
-
-## Background
-
-I began programming at age 10 with Hour of Code and Roblox scripting using Luau. This experience sparked my interest in software development. Since then, I have explored other frameworks and languages including Python, Web Development languages, C++, and Java, and have continued formal study through high school computer science courses and creating projects in my freetime. My primary focus is C++.
 
 ---
 
 ## Interests
 Graphics programming
 
-Low-level programming
-
 Operating systems programming
 
 Game programming
-
-Software development
 
 ---
 
