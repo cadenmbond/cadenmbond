@@ -1,6 +1,6 @@
-# Hello, I’m Caden 👋
+# I’m Caden 👋
 
-I am an 18-year-old software developer from Canada with 9 years of programming experience.  
+I am an 18 year old software developer from Canada with 9 years of programming experience.  
 
 ---
 
