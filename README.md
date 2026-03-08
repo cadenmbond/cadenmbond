@@ -20,7 +20,7 @@ I am an 18 year old software developer from Canada with 9 years of programming e
 
 - C++
 - Java
-- Web development (HTML, CSS, JavaScript)
+- Web development
 - Game development
 - Graphics programming
 - Operating systems
@@ -31,6 +31,17 @@ I am an 18 year old software developer from Canada with 9 years of programming e
 - My first language was Luau using Roblox Studio.
 - I expanded to Java at 14
 - I developed an interest in C++ at 16
+
+## Focus
+
+I'm primarily focused on my lower level software development such as OpenGL projects.
+
+## Hobbies
+- Programming (Of course) 
+- Video Games
+- Listening to Music
+- Walking outdoors
+- Playing Soccer
 
 ## GitHub Activity
 
