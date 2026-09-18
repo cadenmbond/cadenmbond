@@ -1,6 +1,6 @@
 # I’m Caden 👋
 
-I am an 18 year old software developer from Canada with 9 years of programming experience.  
+I am a 19 year old software developer from Canada with 10 years of programming experience.  
 
 ---
 
@@ -19,29 +19,26 @@ I am an 18 year old software developer from Canada with 9 years of programming e
 ## Skills
 
 - C++
+- Python
+- Lua
 - Java
 - Web development
 - Game development
 - Graphics programming
-- Operating systems
 
 ## Background
 
-- I started programming at age 9 through the Hour of Code program.  
+- My interest for programming sparked at age 9 with hour of code.
 - My first language was Luau using Roblox Studio.
+- I began python at 12
 - I expanded to Java at 14
 - I developed an interest in C++ at 16
 
-## Focus
-
-I'm primarily focused on my lower level software development such as OpenGL projects.
-
 ## Hobbies
-- Programming (Of course) 
-- Video Games
+- Programming (Of course)
 - Listening to Music
 - Walking outdoors
-- Playing Soccer
+- Playing (and watching) Soccer
 
 ## GitHub Activity
 
