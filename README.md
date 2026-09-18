@@ -11,7 +11,7 @@ I am a 19 year old software developer from Canada with 10 years of programming e
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Caden-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@wcaned">
+  <a href="https://www.youtube.com/@canedmw">
     <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
